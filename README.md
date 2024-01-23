@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋
+
+- Bachelor's student learning:
+    - C++
+    - Python
+    - Typescript
+    - JavaScript
+ 
+- ⚡ I'm a sucker for videogames
 
 <!--
 **Vovegog/Vovegog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
