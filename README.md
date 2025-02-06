@@ -1,7 +1,7 @@
 Hi there 👋
 
 - Bachelor's student learning:
-    - C++
+    - C#
     - Python
     - Typescript
     - JavaScript
